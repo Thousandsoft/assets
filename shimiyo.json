@@ -1,46 +1,57 @@
 {
     "0":{
         "name":"Новинки",
+        "anchor":"new",
         "status":true
     },
     "1":{
         "name":"Роллы",
+        "anchor":"rolls",
         "status":true
     },
     "2":{
         "name":"Суши",
+        "anchor":"sushi",
         "status":true
     },
     "3":{
         "name":"Десерты",
+        "anchor":"desserts",
         "status":true
     },
     "4":{
         "name":"Закуски",
+        "anchor":"snacks",
         "status":true
     },
     "5":{
         "name":"Наборы",
+        "anchor":"sets",
         "status":true
     },
     "6":{
         "name":"Поке и боулы",
+        "anchor":"pokebouls",
         "status":true
     },
     "7":{
         "name":"Воки",
+        "anchor":"woks",
         "status":true
     },
     "8":{
         "name":"Авторское",
+        "anchor":"authors",
         "status":true
     },
     "9":{
         "name":"Онигири",
+        "anchor":"onighiri",
         "status":true
     },
     "10":{
         "name":"Топпинги",
+        "anchor":"toppings",
         "status":true
     }
 }
